@@ -1,0 +1,9 @@
+# General
+.DS_Store
+node_modules/
+.env
+
+# Media Backups (highly recommended to keep off git)
+images_original/
+videos_original/
+scripts/
